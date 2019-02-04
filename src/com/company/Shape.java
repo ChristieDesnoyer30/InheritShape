@@ -31,7 +31,7 @@ public class Shape {
 
     public void printShape(){
 
-        System.out.println("The shape is " + shapeColor + " in color. \n Is it filled in? " + isFilled ".");
+        System.out.println("The shape is " + shapeColor + " in color. \n Is it filled in? " + isFilled + ".");
 
 
     }
