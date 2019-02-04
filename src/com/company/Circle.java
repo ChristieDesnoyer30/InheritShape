@@ -35,7 +35,7 @@ public class Circle extends Shape {
 
     @Override
     public void printShape(){
-        System.out.println("The circle is " + getShapeColor() + "in color. \n" +
+        System.out.println("The circle's color is  " + getShapeColor() + ". \n" +
                 "Is the circle filled in? " + isFilled() + ". \n" +
                 "The circumference of the circle is " + getPerimeter() + ".\n" +
                 "The area of the circle is " + getArea() + ".");
